@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="RegressionTest" verbose="3">
+    <listeners>
+        <listener class-name="helper.java.Listeners.TestListeners"/>
+    </listeners>
+    <!-- <test verbose="1" name="login.TestUserLogin" parallel="false">
+         <classes>
+             <groups>
+                 <run>
+                     <exclude name="login.TestUserLogin"/>
+                 </run>
+             </groups>
+             <class name="login.TestUserLogin"/>
+         </classes>
+     </test>
+99010330001
+     <test verbose="1" name="MoneyTransfer" parallel="false">
+         <classes>
+             <groups>
+                 <run>
+                     <exclude name="MoneyTransfer"/>
+                 </run>
+             </groups>
+             <class name="MoneyTransfer"/>
+         </classes>
+     </test>-->
+
+    <!--   ***********************************************************************************   -->
+    <!--   ******************************   REGRESSION TEST     ******************************   -->
+    <!--   ***********************************************************************************   -->
+
+    <test verbose="1" name="Regression Test" parallel="false">
+        <classes>
+            <groups>
+                <run>
+                    <include name="Bookings"/>
+
+                </run>
+            </groups>
+            <class name="BookMe.Bookings"/>
+        </classes>
+    </test>
+</suite>

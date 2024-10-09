@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resouces>
+    <!-- *****   GENERIC PARAM /// ZINDIGI ***** -->
+    <string name ="Email">umair.iqbal@appinsnap.com</string>
+    <string name ="Name">UMAIR IQBAL</string>
+
+    <!-- ******************************* -->
+    <!-- ********ZINDIGI-INQUIRY******* -->
+    <!-- ******************************* -->
+
+    <string name ="Z2Z_Transaction_Amount">1</string>
+    <string name ="Z2Z_ReceiverMobileNumber">03459866522</string>
+    <string name ="Z2Z_raast">false</string>
+    <string name ="Z2Z_useZmiles">false</string>
+
+    <string name ="Z2Z_Payment_AccountNick">Aimen QA Backend Core JS</string>
+    <string name ="Z2Z_Payment_area">WalletToWallet</string>
+    <string name ="Z2Z_Payment_category">WalletToWallet</string>
+    <string name ="Z2Z_Payment_emailPin">0</string>
+    <string name ="Z2Z_Payment_mobilePin">0</string>
+    <string name ="Z2Z_Payment_payableAmount">0</string>
+    <string name ="Z2Z_Payment_totalPoint">0</string>
+    <string name ="Z2Z_Payment_VoucherAmount">0</string>
+    <string name ="Z2Z_Payment_Zindigi">0</string>
+    <string name ="Z2Z_Payment_zmilesAmount">0</string>
+    <string name ="Z2Z_Payment_totalPoint">0</string>
+
+
+
+    <!-- ****** VERIFICATION CHUNK ***** -->
+
+    <string name ="Z2Z_Verification_RecieverAccountTitle">AIMAN ZAFFAR</string>
+    <string name ="Z2Z_Verification_transactionAmount">"50.0"</string>
+    <string name ="Z2Z_Verification_responseCode">"00"</string>
+
+    <!-- ******************************* -->
+    <!-- ******* ZINDIGI-PAYMENT-INQUIRY ******* -->
+    <!-- ******************************* -->
+
+    <string name ="Payment_VID"/>
+    <string name ="Payment_Amount"/>
+    <string name ="Payment_Consumer#">4770520109938149</string>
+    <string name ="Payment_Email">umair.iqbal@appinsnap.com</string>
+    <string name ="Payment_Mobile#">03327864321</string>
+    <string name ="Payment_Name">UMAIR</string>
+    <string name ="Payment_ProductID">2511356</string>
+    <string name="Payment_UniqueID"/>
+    <string name ="Payment_UseZmile">false</string>
+
+    <!-- ******************************* -->
+    <!-- ******* ZINDIGI-PAYMENT ******* -->
+    <!-- ******************************* -->
+
+    <string name="Bill_Payment_AccountNo"/>
+    <string name ="Bill_Payment_AccountNick">Umair</string>
+    <string name ="Bill_Payment_Amount">1.00</string>
+    <string name ="Bill_Payment_Area">billPayment</string>
+    <string name ="Bill_Payment_CategoryId">2</string>
+    <string name ="Bill_Payment_commissionAmount">0</string>
+    <string name ="Bill_Payment_ConsumerNo">4934650000433479</string>
+    <string name ="Bill_Payment_EmailPin">0</string>
+    <string name ="Bill_Payment_Flag">1</string>
+    <string name ="Bill_Payment_MaxLimit">0</string>
+    <string name ="Bill_Payment_MaxPayAmount">500000</string>
+    <string name ="Bill_Payment_MinLimit">0</string>
+    <string name ="Bill_Payment_MinPayAmount">1</string>
+    <string name ="Bill_Payment_MobileNo">03327864321</string>
+    <string name ="Bill_Payment_MobilePin">0</string>
+    <string name ="Bill_Payment_Network"/>
+    <string name ="Bill_Payment_PayableAmount"/>
+    <string name ="Bill_Payment_ProductId">2511356</string>
+    <string name ="Bill_Payment_SecondSubCategoryId">59</string>
+    <string name ="Bill_Payment_SubCategoryId">42</string>
+    <string name ="Bill_Payment_ThirdSubCategoryId">null</string>
+    <string name ="Bill_Payment_TotalAmount">1.00</string>
+    <string name ="Bill_Payment_TotalPoint"/>
+    <string name ="Bill_Payment_UniqueID"/>
+    <string name ="Bill_Payment_UserID"/>
+    <string name ="Bill_Payment_VoucherAmount"/>
+    <string name ="Bill_Payment_ZmilesAmount"/>
+
+    <!-- ******************************* -->
+    <!-- ******* IBFT-INQUIRY ******* -->
+    <!-- ******************************* -->
+   <string name = "IBFT_Inquiry_amount">1</string>
+   <string name = "IBFT_Inquiry_destinationAccount">03327864321</string>
+   <string name = "IBFT_Inquiry_destinstionBankIMD">559049</string>
+   <string name = "IBFT_Inquiry_email">umair.iqbal@appinsnap.com</string>
+   <string name = "IBFT_Inquiry_name"></string>
+   <string name = "IBFT_Inquiry_recieverMobileNumber">03327864321</string>
+   <string name = "IBFT_Inquiry_reserved1"></string>
+   <string name = "IBFT_Inquiry_senderMobileNumber">03327864321</string>
+   <string name = "IBFT_Inquiry_sourceBankIMD">603733</string>
+
+    <!-- ******************************* -->
+    <!-- ******* IBFT-Payment ******* -->
+    <!-- ******************************* -->
+    <string name = "IBFT_Payment_amount">1</string>
+   <string name =  "IBFT_Payment_area">IBFT</string>
+   <string name =  "IBFT_Payment_benificiaryIBAN">03327864321</string>
+   <string name =  "IBFT_Payment_destinationAccount">03327864321</string>
+   <string name =  "IBFT_Payment_destinstionBankIMD">639390</string>
+   <string name =  "IBFT_Payment_emailPin">0</string>
+   <string name =  "IBFT_Payment_mPin"/>
+   <string name =  "IBFT_Payment_mobilePin">0</string>
+   <string name =  "IBFT_Payment_otpPin"/>
+   <string name =  "IBFT_Payment_purposeOfPayment">Others</string>
+   <string name =  "IBFT_Payment_recieverAccountTitle">UMAIR IQBAL</string>
+   <string name =  "IBFT_Payment_recieverMobileNumber">03327864321</string>
+   <string name =  "IBFT_Payment_reserved1"/>
+   <string name =  "IBFT_Payment_senderAcountTitle">UMAIR IQBAL</string>
+   <string name =  "IBFT_Payment_senderMobileNumber">03327864321</string>
+   <string name =  "IBFT_Payment_sourceBankIMD">603733</string>
+   <string name =  "IBFT_Payment_terminalId"/>
+   <string name =  "IBFT_Payment_toBankName">Easypaisa</string>
+   <string name =  "IBFT_Payment_toBranchName">Easypaisa</string>
+
+    <!-- ******************************* -->
+    <!-- ******* Raast-Payment ******* -->
+    <!-- ******************************* -->
+
+    <string name = "Raast_Inquiry_Type">MOBILE</string>
+    <string name =  "Raast_Inquiry_Num">03129761208</string>
+    <string name =  "Raast_Inquiry_Area">Payment</string>
+    <string name =  "Raast_Inquiry_Sender">03327864321</string>
+
+    <string name =  "Raast_Type"></string>
+    <string name =  "Raast_BankImd">TMICFBPK</string>
+    <string name =  "Raast_Area">raastibft</string>
+    <string name =  "Raast_creditorIban">PK81TMFB0000000033586196</string>
+    <string name =  "Raast_creditorTitle">MUHAMMAD AHMED</string>
+    <string name =  "Raast_debitorIban">PK95JSBL9999903327864321</string>
+    <string name =  "Raast_debitorTitle">UMAIR IQBAL</string>
+    <string name =  "Raast_nickName">Ahmad QA AIS</string>
+    <string name =  "Raast_receiverMobile">03129761208</string>
+    <string name =  "Raast_transactionAmount">1</string>
+    <string name =  "Raast_emailPin">0</string>
+    <string name =  "Raast_mobilePin">0</string>
+
+
+    <!-- ******************************* -->
+    <!-- ******* transferMoney.Donations ******* -->
+    <!-- ******************************* -->
+
+    <string name =  "Donation_ReceiverAccountNumber">0001534126</string>
+    <string name =  "Donation_TransactionAmount">1</string>
+    <string name =  "Donation_Area">transferMoney.Donations</string>
+    <string name =  "Donation_emailPin">0</string>
+    <string name =  "Donation_mobilePin">0</string>
+    <string name =  "Donation_otpPin"/>
+    }
+
+    <!-- ******************************* -->
+    <!-- ******* Loads ******* -->
+    <!-- ******************************* -->
+    <string name =  "Load_Amount">100</string>
+    <string name =  "Load_Area">TelcoV1</string>
+    <string name =  "Load_EmailPin"/>
+    <string name =  "Load_Fee"/>
+    <string name =  "Load_MobilePin"/>
+    <string name =  "Load_Nick">Loadd</string>
+    <string name =  "Load_Prepaid">true</string>
+    <string name =  "Load_ProductID"/>
+    <string name =  "Load_RechargeType">PrePaid</string>
+    <string name =  "Load_SenderMobile">03327864321</string>
+
+    <!--
+{
+  "amount": "30",
+  "area": "TelcoV1",
+  "bundleID": "46436152",
+  "companyID": 4,
+  "companyName": "Ufone",
+  "emailPin": "0",
+  "fees": "0.00",
+  "icon": "",
+  "instructions": "* Upower Rs 30 Data EVC-30",
+  "mPin": "m0P4ZEkDx6ch6j4hNnnpbrRe1ioicWM5O2caeWbevknq+1rwyvTRZroS3PuleMy01bZGq7dXH3rc\nGQi3T9+pwfu7xDCsc9GgvabEFDjruVwIzEStXvWlhYAnbchXrhd4AEPM3bPhgSKmc0xoNbq3RD6N\n2WJ5OP97Grfbmgra7CCKGdO5Fspxzl84R7ga2yv+hkABQbi/JfgTz48mLd1/4uyLtFVam6Ihm8Fw\ndrM25QmTMIVf7GeSwN3Ak7WCIBYzFk6bkktYBjes6VeGLjuf4Z27njVn0GGOdXcdcyaqZ35DIWs1\nqRMzgcyOGr+OnwH1gXiaQsFFSkpmq1NaJn4GQQ==\n",
+  "mobilePin": "0",
+  "name": "UPower Rs.30 Internet",
+  "nick": "bundless",
+  "offer": true,
+  "offerColor": "",
+  "offerLabel": "",
+  "offerOldPrice": "",
+  "productID": "2511348",
+  "receiverMobile": "03325898805",
+  "senderMobile": "03327864321",
+  "title1": "GB",
+  "title1Value": "1",
+  "title2": "On Net",
+  "title2Value": "",
+  "title3": "Off Net",
+  "title3Value": "",
+  "title4": "SMS",
+  "title4Value": "",
+  "token": "",
+  "type": "UPower",
+  "validity": "1",
+  "otpPin": "He5i2AGCpcSUHoj5Qg6InUMq3UIpFMGNp3P9YUtbUBxkAfMpj5Ot6xe6bkd0AQfmuE/vObY9MNjA\nGuKWC3cbx0cfMzVOaNFq/jFiVvaS2hTKNFS8WqRI49FarvH4BsysvJ8sqQw9IkjTj2Yl7Rp3+aFZ\nrpBy7mjpm3/LoVy1u96fvrbdbAD/R/Aum0B6LWJjWxcCPjprCRb5nbXXi9JHUAyVGjpdSiJEH60N\nKv2xXAn6D065fsbAXTzg5kt2rB3WaDGpSOXBuPLcJaM/W2credo5DDy6VKfasEIuvJ/3JNJ/AJtJ\nzwt3IxnS/8/DoTX1UJejQXY5hOXnXX3kPvFO7g==\n"
+}-->
+
+    <!-- ******************************* -->
+    <!-- ******* Bundles ******* -->
+    <!-- ******************************* -->
+    <string name =  "Bundle_Amount">30</string>
+    <string name =  "Bundle_Area">TelcoV1</string>
+    <string name =  "Bundle_ID">46436152</string>
+    <string name =  "Bundle_EmailPin"/>
+    <string name =  "Bundle_Fee"/>
+    <string name =  "Bundle_Icon"/>
+    <string name =  "Bundle_Instruction"/>
+    <string name =  "Bundle_MobilePin"/>
+    <string name =  "Bundle_Name">UPower Rs.30 Internet</string>
+    <string name =  "Bundle_Nick">Bundlee</string>
+    <string name =  "Bundle_Offer">offer</string>
+    <string name =  "Bundle_OfferColor"/>
+    <string name =  "Bundle_OfferLabel"/>
+    <string name =  "Bundle_OfferOldPrice"/>
+    <string name =  "Bundle_title1">GB</string>
+    <string name =  "Bundle_title1Value">1</string>
+    <string name =  "Bundle_title2">On Net</string>
+    <string name =  "Bundle_title2Value"/>
+    <string name =  "Bundle_title3">Off Net</string>
+    <string name =  "Bundle_title3Value"/>
+    <string name =  "Bundle_title4">SMS</string>
+    <string name =  "Bundle_title4Value"/>
+    <string name =  "Bundle_Token"/>
+    <string name =  "Bundle_ProductID">2511348</string>
+    <string name =  "Bundle_Type">UPower</string>
+    <string name =  "Bundle_Validity">1</string>
+    <string name =  "Bundle_SenderMobile">03327864321</string>
+
+    <!-- ******************************* -->
+    <!-- ******* Mutual Funds ******* -->
+    <!-- ******************************* -->
+
+    <string name =  "area">mutualFunds.MutualFunds</string>
+    <string name =  "bankAccountNumber">03327864321</string>
+    <string name =  "chequeDate">46436152</string>
+    <string name =  "chequeNumber">9847111022071153</string>
+    <string name =  "collectionAccountNumber">PK81JSBL9005000000354829</string>
+    <string name =  "discount">1.15</string>
+    <string name =  "email">umair.iqbal@appinsnap.com</string>
+    <string name =  "folioNumber">48966</string>
+    <string name =  "fullName">UMAIR IQBAL</string>
+    <string name =  "fundCode">00045</string>
+    <string name =  "mobile">03327864321</string>
+    <string name =  "mobilePin">0</string>
+    <string name =  "narration">3740138984107-48966-507153</string>
+    <string name =  "productId">10245195</string>
+    <string name =  "unitClass">XX</string>
+    <string name =  "unitPlan">0</string>
+
+
+</resouces>
