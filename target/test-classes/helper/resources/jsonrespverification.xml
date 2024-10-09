@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<resouces>
-    <!-- *****   Z-2-Z /// ZINDIGI TRANSFER -->
-    <string name ="Verify_Z_Z_TransactionType_Path">body.promotionInfo.transactionType</string>
-    <string name ="Verify_Z_Z_TransactionType_Value">xsi:nil</string>
-
-
-</resouces>
